@@ -1,5 +1,5 @@
 
-# Projeto SimAlg - simulador de um algoritmo de substituição de páginas.
+# Projeto SimAlg
 
 Este projeto teve como objetivo criar um simulador de um algoritmo de substituição de páginas para o trabalho da disciplina de Sistemas Operacionais Abertos(SOA).
 
