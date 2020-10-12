@@ -11,7 +11,7 @@ Este algoritmo substitui a página lógica que está há mais tempo na memória.
 ## 5 passos para utilizar:
 1. Baixe os arquivos do projeto (clicando em "Code"(Botão verde) e após isso em "Download ZIP") 
 2. Abra o arquivo "index.html".
-3. A entrada do algoritmo deverá ser uma sequência numérica, separados por vírgula, que será utilizada como String de referência. 
+3. A entrada do algoritmo deverá ser uma sequência numérica, separada por vírgula (como no exemplo abaixo), que será utilizada como array de referência. 
 4. Em seguida, defina a quantidade de quadros que a memória dispõe.
 5. Clique em: "Iniciar" para iniciar a simulação.
 
