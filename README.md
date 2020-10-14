@@ -15,6 +15,10 @@ Este algoritmo substitui a página lógica que está há mais tempo na memória.
 4. Em seguida, defina a quantidade de quadros que a memória dispõe.
 5. Clique em: "Iniciar" para iniciar a simulação.
 
+- Os campos "Referência" e "Número de Quadros" estão temporariamente desabilitados, nas próximas versões o usuário poderá definir estes campos antes de realizar a simulação
+
+- A lógica para a simulação do algoritmo(function simulaFIFO () ) poderá ser conferida no arquivo "js/index.js".
+
 ## Tecnologias utilizadas:
 
   - [HTML](https://www.w3schools.com/html/default.asp)
@@ -25,6 +29,7 @@ Este algoritmo substitui a página lógica que está há mais tempo na memória.
 ## Exemplo de uso:
 
 <img src="img/Captura1.PNG">
+<img src="img/Captura2.PNG">
 
 ## Licença
 
